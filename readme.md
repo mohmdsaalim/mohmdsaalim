@@ -1,93 +1,64 @@
-<h1 align="center">Hi 👋, I'm MOHAMMED SAALIM</h1>
-<h3 align="center">A Backend-Focused Full Stack Developer</h3>
+# Hi 👋, I'm Muhammed Saalim  
+<!-- <img src="[img.webp](https://png.pngtree.com/thumb_back/fw800/background/20251008/pngtree-anime-boy-coding-on-dual-monitors-in-dimly-lit-city-apartment-image_19796076.webp)" alt="Profile Image" class="inline-image"> -->
+
+### A Backend-Focused Full Stack Developer Who Loves Building Scalable Systems 
 
 ---
 
-<h3 align="left">🚀 About Me</h3>
-<p align="left">
-Full Stack Developer specializing in <b>Go (Golang)</b> and <b>React</b>, with a strong focus on 
-<b>backend system design</b>, <b>RESTful APIs</b>, and <b>scalable application architecture</b>.  
-Experienced in building efficient, maintainable backend services and integrating them with modern, responsive frontends.  
-Passionate about data structures, performance optimization, and clean system design.
-</p>
+###  &nbsp; About Me
+
+-  Currently focused on building **robust backend systems** and clean full-stack applications.
+-  Actively improving my skills in **Golang**, system design, and modern frontend tools.
+-  Passionate about creating **scalable APIs**, efficient data handling, and seamless UI integration.
+-  Ask me about **Go (Golang), REST APIs, React, and backend architecture**.
+-  Reach me at: **muhammedsaalim@gmail.com**
+-  Fun fact: I enjoy debugging complex problems almost as much as writing clean code 😄
 
 ---
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammed saalim k m" target="blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="muhammed saalim k m" height="30" width="40" />
-</a>
-<a href="https://instagram.com/mohmd.saalim" target="blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-       alt="mohmd.saalim" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/mhmd_saalim" target="blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-       alt="mhmd_saalim" height="30" width="40" />
-</a>
-</p>
+###  Technologies & Tools I Work With
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br>React</td>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" width="48"/><br>Golang</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="65"/><br>Gin</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62"/><br>REST API</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62"/><br>Redux Toolkit</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="62"/><br>Prettier</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br>Figma</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="48"/><br>NPM</td>
+    <!-- <td align="center"><img src="https://avatars.githubusercontent.com/u/15127678?s=48&v=4" width="40"/><br>GORM</td> -->
+    <!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/><br>Material UI</td> -->
+    <!-- <td align="center"><img src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png" width="62"/><br>JIRA</td> -->
+    <!-- <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br>Postman</td> -->
+    <!-- <td align="center"><img src="http://jwt.io/img/icon.svg" width="62"/><br>JWT</td> -->
+  </tr>
+  <tr>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</td> -->
+    <!-- <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" width="48"/><br>Chart.js</td> -->
+    <!-- <td align="center"><img src="https://logowik.com/content/uploads/images/react-query1721251933.logowik.com.webp" width="48"/><br>React Query</td> -->
+    <!-- <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" width="48"/><br>GoLand</td> -->
+    <!-- <td align="center"><img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" width="48"/><br>TanStack</td> -->
+  </tr>
+</table>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://golang.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://redis.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
+### 📈 GitHub Stats
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaalim&show_icons=true" width="33%" /> -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsaalim" width="33%" /> -->
+  <img src="https://leetcard.jacoblin.cool/mhmd_saalim?font=patrick_hand" width="33%" />
 </p>
