@@ -11,7 +11,7 @@
 -  Actively improving my skills in **Golang**, system design, and modern frontend tools.
 -  Passionate about creating **scalable APIs**, efficient data handling, and seamless UI integration.
 -  Ask me about **Go (Golang), REST APIs, React, and backend architecture**.
--  Reach me at: **muhammedsaalim@gmail.com**
+-  Reach me at: **muhammedsaalim005@gmail.com**
 -  Fun fact: I enjoy debugging complex problems almost as much as writing clean code 😄
 
 ---
