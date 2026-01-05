@@ -1,7 +1,7 @@
 # Hi 👋, I'm Muhammed Saalim  
 <!-- <img src="[img.webp](https://png.pngtree.com/thumb_back/fw800/background/20251008/pngtree-anime-boy-coding-on-dual-monitors-in-dimly-lit-city-apartment-image_19796076.webp)" alt="Profile Image" class="inline-image"> -->
 
-### A Backend-Focused Full Stack Developer Who Loves Building Scalable Systems 
+### Backend Engineer | Go
 
 ---
 
