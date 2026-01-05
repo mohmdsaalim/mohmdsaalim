@@ -38,10 +38,10 @@
     <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br>Figma</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="48"/><br>NPM</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br>Postman</td>
     <!-- <td align="center"><img src="https://avatars.githubusercontent.com/u/15127678?s=48&v=4" width="40"/><br>GORM</td> -->
     <!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/><br>Material UI</td> -->
     <!-- <td align="center"><img src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png" width="62"/><br>JIRA</td> -->
-    <!-- <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br>Postman</td> -->
     <!-- <td align="center"><img src="http://jwt.io/img/icon.svg" width="62"/><br>JWT</td> -->
   </tr>
   <tr>
