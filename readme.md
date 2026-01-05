@@ -1,5 +1,5 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Muhammed Saalim  
-<!-- <img src="[img.webp](https://png.pngtree.com/thumb_back/fw800/background/20251008/pngtree-anime-boy-coding-on-dual-monitors-in-dimly-lit-city-apartment-image_19796076.webp)" alt="Profile Image" class="inline-image"> -->
+<img src="https://github.com/mohmdsaalim/mohmdsaalim/blob/main/Gemini_Generated_Image_gdx5w1gdx5w1gdx5.jpeg?raw=true" class="inline-image"> 
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend Engineer | Go
 
