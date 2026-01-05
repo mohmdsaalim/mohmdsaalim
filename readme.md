@@ -1,5 +1,5 @@
 # &nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Muhammed Saalim  
-<img src="https://github.com/mohmdsaalim/mohmdsaalim/blob/main/Gemini_Generated_Image_gdx5w1gdx5w1gdx5.jpeg?raw=true" class="inline-image"> 
+<img src="unnamed.jpg" class="inline-image"> 
 
 ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend Engineer | Go
 
