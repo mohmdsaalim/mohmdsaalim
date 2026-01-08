@@ -7,13 +7,13 @@
 
 ###  &nbsp; About Me
 
--  Currently focused on building **robust backend systems** and clean full-stack applications.
--  Actively improving my skills in **Golang**, system design, and modern frontend tools.
--  Passionate about creating **scalable APIs**, efficient data handling, and seamless UI integration.
--  Ask me about **Go (Golang), REST APIs, React, and backend architecture**.
--  Reach me at: **muhammedsaalim005@gmail.com**
--  Fun fact: I enjoy debugging complex problems almost as much as writing clean code 
+I am a backend-focused full-stack developer with a strong interest in designing scalable, maintainable systems. I specialize in building robust RESTful APIs and efficient backend services using Golang, with a solid understanding of system design principles.
 
+I continuously work on improving application performance, data handling, and clean architecture while integrating modern frontend technologies such as React to deliver seamless user experiences. I enjoy solving complex problems and writing clean, readable, and maintainable code.
+
+I am particularly interested in backend architecture, API design, and scalable system development.
+
+📫 Contact: muhammedsaalim005@gmail.com
 ---
 
 ###  Technologies & Tools I Work With
