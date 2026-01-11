@@ -55,10 +55,7 @@ I am particularly interested in backend architecture, API design, and scalable s
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaalim&show_icons=true" width="33%" /> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsaalim" width="33%" /> -->
+   
   <img src="https://leetcard.jacoblin.cool/mhmd_saalim?font=patrick_hand" width="33%" />
 </p>
