@@ -45,8 +45,8 @@ I am particularly interested in backend architecture, API design, and scalable s
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/15127678?s=48&v=4" width="40"/><br>GORM</td>
     <!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/><br>Material UI</td> -->
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</td>
     <td align="center"><img src="http://jwt.io/img/icon.svg" width="62"/><br>JWT</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</td>
     <!-- <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" width="48"/><br>Chart.js</td> -->
     <!-- <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" width="48"/><br>GoLand</td> -->
     <!-- <td align="center"><img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" width="48"/><br>TanStack</td> -->
