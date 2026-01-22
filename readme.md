@@ -37,8 +37,8 @@ I am particularly interested in backend architecture, API design, and scalable s
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" width="48"/><br>NPM</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><br>GitHub</td>
-    <td align="center"><img src="https://logowik.com/content/uploads/images/react-query1721251933.logowik.com.webp" width="48"/><br>React Query</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br>Postman</td>
+    <td align="center"><img src="https://logowik.com/content/uploads/images/react-query1721251933.logowik.com.webp" width="48"/><br>React Query</td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br>C</td>
     <!-- <td align="center"><img src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png" width="62"/><br>JIRA</td> -->
   </tr>
