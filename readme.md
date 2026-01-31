@@ -11,7 +11,7 @@ I am a backend-focused full-stack developer with a strong interest in designing 
 
 I continuously work on improving application performance, data handling, and clean architecture while integrating modern frontend technologies such as React to deliver seamless user experiences. I enjoy solving complex problems and writing clean, readable, and maintainable code.
 
-I am particularly interested in backend architecture, API design, and scalable system development.
+ I am particularly interested in backend architecture, API design, and scalable system development.
 
 📫 Contact: muhammedsaalim005@gmail.com
 ---
