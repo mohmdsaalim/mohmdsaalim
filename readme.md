@@ -48,7 +48,7 @@ I continuously work on improving application performance, data handling, and cle
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62"/><br>Redux Toolkit</td>
     <!-- <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" width="48"/><br>Chart.js</td> -->
-    <!-- <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" width="48"/><br>GoLand</td> -->
+    <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" width="48"/><br>GoLand</td>
     <!-- <td align="center"><img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" width="48"/><br>TanStack</td> -->
   </tr>
 </table>
