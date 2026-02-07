@@ -6,7 +6,9 @@
 ---
 
 ###  &nbsp; About Me 
-Backend-focused full-stack developer specializing in Golang, passionate about designing scalable, maintainable systems and building high-performance RESTful APIs with clean architecture and modern frontend integrations.
+Backend-focused Full-Stack Developer specializing in Golang, with a strong passion for designing scalable, maintainable, and high-performance systems. Experienced in building robust RESTful APIs using clean architecture principles, implementing secure authentication mechanisms, and optimizing database performance with PostgreSQL. Skilled in structuring production-ready backend applications with proper layering, dependency management, and interface-driven design.
+
+On the frontend, comfortable integrating modern frameworks to create seamless user experiences while ensuring smooth communication between client and server. Committed to writing clean, testable code and continuously improving system performance, scalability, and code quality. Constantly exploring advanced backend concepts, distributed systems patterns, and best practices to build reliable, real-world applications.
 
 📫 Contact: muhammedsaalim005@gmail.com
 ---
