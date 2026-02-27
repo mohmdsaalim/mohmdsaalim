@@ -43,8 +43,8 @@ On the frontend, comfortable integrating modern frameworks to create seamless us
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
     <!-- <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40"/><br>Material UI</td> -->
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62"/><br>Redux Toolkit</td>
     <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" width="48"/><br>Chart.js</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62"/><br>Redux Toolkit</td>
     <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" width="48"/><br>GoLand</td>
     <!-- <td align="center"><img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" width="48"/><br>TanStack</td> -->
   </tr>
