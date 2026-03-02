@@ -28,8 +28,8 @@ On the frontend, comfortable integrating modern frameworks to create seamless us
     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62"/><br>REST API</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="62"/><br>Prettier</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br>Figma</td>
     <td align="center"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48"/><br>Git</td>
