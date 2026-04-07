@@ -5,10 +5,109 @@
 
 ---
 
-###  &nbsp; About Me 
-Backend-focused Full-Stack Developer specializing in Golang, with a strong passion for designing scalable, maintainable, and high-performance systems. Experienced in building robust RESTful APIs using clean architecture principles, implementing secure authentication mechanisms, and optimizing database performance with PostgreSQL. Skilled in structuring production-ready backend applications with proper layering, dependency management, and interface-driven design.
 
-On the frontend, comfortable integrating modern frameworks to create seamless user experiences while ensuring smooth communication between client and server. Committed to writing clean, testable code and continuously improving system performance, scalability, and code quality. Constantly exploring advanced backend concepts, distributed systems patterns, and best practices to build reliable, real-world applications.
+Backend-focused engineer passionate about building **scalable, high-performance distributed systems** using **Go (Golang)**.
+
+I enjoy designing **event-driven microservices**, optimizing performance, and building **production-grade systems** with strong reliability and observability.
+
+---
+
+## 🧠 What I Do
+
+- ⚙️ Build distributed systems and microservices architectures  
+- 🚀 Design high-throughput, low-latency backend systems  
+- 📦 Develop REST & gRPC APIs  
+- 🔁 Work with event-driven systems using Kafka  
+- 🛠️ Productionize applications with Docker & Kubernetes  
+- 📊 Implement monitoring with Prometheus, Grafana, and Jaeger  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Go (Golang)
+- JavaScript (ES6+)
+- Python (Basics)
+- SQL
+
+### ⚙️ Backend
+- Gin, Fiber  
+- gRPC, REST APIs  
+- Microservices Architecture  
+- Concurrency (Goroutines, Channels)  
+- Apache Kafka  
+
+### 🗄️ Databases
+- PostgreSQL (Indexing, Query Optimization, Transactions)  
+- Redis  
+
+### 🎨 Frontend
+- React.js  
+- Redux Toolkit  
+- Tailwind CSS  
+
+### 🚀 DevOps & Tools
+- Docker  
+- Kubernetes (HPA, KEDA)  
+- Git & GitHub  
+- CI/CD (GitHub Actions)  
+- Postman  
+
+### 📊 Observability
+- Prometheus  
+- Grafana  
+- Jaeger  
+
+---
+
+## 💼 Experience
+
+### 🏢 Full-Stack Developer Intern  
+**Bridgeon Solutions — Kozhikode, India**  
+📅 Aug 2025 – Present  
+
+- Architected a **distributed e-commerce backend** using Go, PostgreSQL, Redis, and Kafka with ACID-compliant workflows  
+- Improved database performance by **40%** through indexing and optimized queries  
+- Built **EngineX**, a distributed order matching engine handling **100,000+ orders/sec** with sub-ms latency  
+- Designed **event-driven microservices (6 services)** using Kafka and gRPC  
+- Implemented **exactly-once processing** using Kafka idempotency + PostgreSQL transactions  
+- Built a **Redis-backed risk validation system** for ultra-fast pre-trade checks  
+- Deployed using **Docker + Kubernetes**, with full CI/CD and observability stack  
+
+---
+
+## 🔥 Featured Project
+
+### ⚡ EngineX — Distributed Order Matching Engine
+
+- 🧩 6-microservice architecture (Gateway, Matching Engine, Executor, Risk, Auth, WebSocket)  
+- ⚡ 100,000+ orders/sec throughput  
+- ⏱️ Sub-millisecond latency  
+- 🌲 Lock-free B-Tree FIFO matching algorithm  
+- 🔄 Kafka-based event-driven pipeline  
+- 📡 Real-time order book via WebSockets  
+
+👉 [View Project](https://github.com/mohmdsaalim/EngineX)
+
+---
+
+## 📈 What I'm Focused On
+
+- Distributed systems design  
+- High-performance backend engineering  
+- Real-world system scalability  
+- Clean architecture & maintainable code  
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn:[ (click here)](https://www.linkedin.com/in/muhammed-saalim-k-m-5714a2367/)
+
+---
+
+⭐ *Always building. Always learning.*
 
 📫 Contact: muhammedsaalim005@gmail.com
 ---
