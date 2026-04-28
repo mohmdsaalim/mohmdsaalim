@@ -106,8 +106,8 @@
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/>CSS</td>
-    <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" width="48"/><br/>Chart.js</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="62"/><br/>Redux Toolkit</td>
+    <td align="center"><img src="https://www.chartjs.org/docs/latest/favicon.ico" width="48"/><br/>Chart.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/>HTML5</td>
     <td align="center"><img src="https://seeklogo.com/images/G/goland-logo-A068661F80-seeklogo.com.png" width="48"/><br/>GoLand</td>
     <td></td><td></td><td></td><td></td>
