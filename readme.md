@@ -39,7 +39,7 @@
 - Architected a distributed e-commerce backend using Go, PostgreSQL, Redis, and Kafka with ACID-compliant workflows  
 - Improved database performance by 40% through indexing and optimized queries  
 - Built **EngineX**, a distributed order matching engine handling 100,000+ orders/sec with sub-ms latency  
-- Designed event-driven microservices (6 services) using Kafka and gRPC  
+- Designed event-driven microservices (6 services) using Kafka and gRPC   
 - Implemented exactly-once processing using Kafka idempotency + PostgreSQL transactions  
 - Built a Redis-backed risk validation system for ultra-fast pre-trade checks  
 - Deployed using Docker + Kubernetes, with full CI/CD and observability stack  
