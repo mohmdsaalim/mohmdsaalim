@@ -90,8 +90,8 @@
     <td align="center"><img src="http://jwt.io/img/icon.svg" width="62"/><br/>JWT</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br/>JavaScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br/>React</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="62"/><br/>REST API</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman</td>
   </tr>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/><br/>Figma</td>
