@@ -1,83 +1,10 @@
-<!-- Your GitHub Profile README -->
+ <!-- Your GitHub Profile README -->
 <div align="center">
   <h1>Muhammed Saalim</h1>
   <img src="unnamed.jpg" class="inline-image"> 
   <p><strong>Backend developer | Go</strong></p>
   <p>Backend-focused engineer passionate about building scalable, high-performance distributed systems using Go (Golang). I enjoy designing event-driven microservices, optimizing performance, and building production-grade systems with strong reliability and observability.</p>
 </div>
-
----
-
-## What I Do
-
-- Build distributed systems and microservices architectures  
-- Design high-throughput, low-latency backend systems  
-- Develop REST & gRPC APIs  
-- Work with event-driven systems using Kafka  
-- Productionize applications with Docker & Kubernetes  
-- Implement monitoring with Prometheus, Grafana, and Jaeger   
-
----
-
-## Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| Languages | Go (Golang), JavaScript (ES6+), Python (Basics), SQL |
-| Backend | Gin, Fiber, gRPC, REST APIs, Microservices Architecture, Concurrency (Goroutines, Channels), Apache Kafka |
-| Databases | PostgreSQL (Indexing, Query Optimization, Transactions), Redis |
-| Frontend | React.js, Redux Toolkit, Tailwind CSS |
-| DevOps & Tools | Docker, Kubernetes (HPA, KEDA), Git & GitHub, CI/CD (GitHub Actions), Postman |
-| Observability | Prometheus, Grafana, Jaeger |
-
----
-
-## Experience
-
-**Full-Stack Developer Intern** – Bridgeon Solutions, Kozhikode, India (Aug 2025 – Present)
-
-- Architected a distributed e-commerce backend using Go, PostgreSQL, Redis, and Kafka with ACID-compliant workflows  
-- Improved database performance by 40% through indexing and optimized queries  
-- Built **EngineX**, a distributed order matching engine handling 100,000+ orders/sec with sub-ms latency  
-- Designed event-driven microservices (6 services) using Kafka and gRPC   
-- Implemented exactly-once processing using Kafka idempotency + PostgreSQL transactions  
-- Built a Redis-backed risk validation system for ultra-fast pre-trade checks  
-- Deployed using Docker + Kubernetes, with full CI/CD and observability stack  
-
----
-
-## Featured Project
-
-### EngineX — Distributed Order Matching Engine
-
-- 6-microservice architecture (Gateway, Matching Engine, Executor, Risk, Auth, WebSocket)  
-- 100,000+ orders/sec throughput  
-- Sub-millisecond latency  
-- Lock-free B-Tree FIFO matching algorithm  
-- Kafka-based event-driven pipeline  
-- Real-time order book via WebSockets  
-
-🔗 [View Project on GitHub](https://github.com/mohmdsaalim/EngineX)
-
----
-
-## What I'm Focused On
-
-- Distributed systems design  
-- High-performance backend engineering  
-- Real-world system scalability  
-- Clean architecture & maintainable code  
-
----
-
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/muhammed-saalim-k-m-5714a2367/)  
-- Email: muhammedsaalim005@gmail.com  
-
-⭐ Always building. Always learning.
-
----
 
 ## Technologies & Tools I Work With
 
